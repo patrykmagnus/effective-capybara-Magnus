@@ -2,14 +2,14 @@
     <Dialog title="Add Employee" class="sapUiResponsivePadding" contentWidth="25rem">
         <content>
             <VBox class="sapUiSmallMarginBegin sapUiSmallMarginEnd sapUiSmallMarginTop sapUiSmallMarginBottom">
-                <Label text="Imię" required="true" />
-                <Input id="firstNameInput" placeholder="Imię"  />
+                <Label text="Name" required="true" />
+                <Input id="firstNameInput" placeholder="Name"/>
 
-                <Label text="Nazwisko" required="true" />
-                <Input id="lastNameInput"/>
+                <Label text="Surname" required="true" />
+                <Input id="lastNameInput" placeholder="Surname"/>
 
                 <Label text="Position" required="true"/>
-                <Input id="positionInput"/>
+                <Input id="positionInput" placeholder="Position"/>
 
                 <Label text="Email" type="Email" />
                 <Input id="emailInput" liveChange="onInputLiveChange"/>

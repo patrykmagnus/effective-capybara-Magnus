@@ -12,7 +12,7 @@
                             <Input id="idNameInput" liveChange="onFilterChange" />
                         </fb:control>
                     </fb:FilterGroupItem>
-                    <fb:FilterGroupItem name="LastName" label="Last Name" groupName="Group1" visibleInFilterBar="true">
+                    <fb:FilterGroupItem name="LastName" label="Surname" groupName="Group1" visibleInFilterBar="true">
                         <fb:control>
                             <Input id="idLastNameInput" liveChange="onFilterChange" />
                         </fb:control>

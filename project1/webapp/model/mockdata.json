@@ -2,183 +2,165 @@
     "Employees": [
         {
             "ID": "1",
-            "FirstName": "Jan",
-            "LastName": "Kowalski",
-            "Position": "Developer",
-            "Email": "jan.kowalski@example.com",
+            "FirstName": "Marek",
+            "LastName": "Nowicki",
+            "Position": "Chirurg",
+            "Email": "marek.nowicki@hospital.com",
             "Phone": "123-456-789",
-            "Description": "Jan is responsible for writing and maintaining code for software applications."
+            "Description": "Marek jest doświadczonym chirurgiem specjalizującym się w operacjach jamy brzusznej."
         },
         {
             "ID": "2",
-            "FirstName": "Anna",
-            "LastName": "Nowak",
-            "Position": "Project Manager",
-            "Email": "anna.nowak@example.com",
+            "FirstName": "Katarzyna",
+            "LastName": "Lis",
+            "Position": "Pielęgniarka",
+            "Email": "katarzyna.lis@hospital.com",
             "Phone": "234-567-890",
-            "Description": "Anna oversees and manages the development of projects from start to finish, ensuring they meet deadlines and budgets."
+            "Description": "Katarzyna zapewnia opiekę pacjentom na oddziale intensywnej terapii."
         },
         {
             "ID": "3",
-            "FirstName": "Piotr",
-            "LastName": "Wiśniewski",
-            "Position": "QA Engineer",
-            "Email": "piotr.wisniewski@example.com",
+            "FirstName": "Robert",
+            "LastName": "Mazur",
+            "Position": "Anestezjolog",
+            "Email": "robert.mazur@hospital.com",
             "Phone": "345-678-901",
-            "Description": "Piotr tests software to find bugs and ensures the product is working as intended."
+            "Description": "Robert zajmuje się znieczuleniem pacjentów przed operacjami."
         },
         {
             "ID": "4",
-            "FirstName": "Maria",
-            "LastName": "Dąbrowska",
-            "Position": "HR Specialist",
-            "Email": "maria.dabrowska@example.com",
+            "FirstName": "Magdalena",
+            "LastName": "Kowalczyk",
+            "Position": "Technik radiologii",
+            "Email": "magdalena.kowalczyk@hospital.com",
             "Phone": "456-789-012",
-            "Description": "Maria handles recruitment, employee relations, and ensures compliance with HR policies."
+            "Description": "Magdalena obsługuje sprzęt do badań obrazowych, takich jak RTG i tomografia."
         },
         {
             "ID": "5",
             "FirstName": "Tomasz",
-            "LastName": "Lewandowski",
-            "Position": "DevOps Engineer",
-            "Email": "tomasz.lewandowski@example.com",
+            "LastName": "Gajewski",
+            "Position": "Ortopeda",
+            "Email": "tomasz.gajewski@hospital.com",
             "Phone": "567-890-123",
-            "Description": "Tomasz manages the infrastructure and deployment pipelines to improve the development and operations workflows."
+            "Description": "Tomasz specjalizuje się w diagnostyce i leczeniu schorzeń układu kostno-stawowego."
         },
         {
             "ID": "6",
-            "FirstName": "Alicja",
-            "LastName": "Zielińska",
-            "Position": "UX Designer",
-            "Email": "alicja.zielinska@example.com",
+            "FirstName": "Anna",
+            "LastName": "Zawadzka",
+            "Position": "Psychiatra",
+            "Email": "anna.zawadzka@hospital.com",
             "Phone": "678-901-234",
-            "Description": "Alicja designs user-friendly interfaces and ensures a positive user experience for applications."
+            "Description": "Anna zajmuje się diagnozowaniem i leczeniem zaburzeń psychicznych."
         },
         {
             "ID": "7",
-            "FirstName": "Krzysztof",
-            "LastName": "Szymański",
-            "Position": "Software Architect",
-            "Email": "krzysztof.szymanski@example.com",
+            "FirstName": "Piotr",
+            "LastName": "Domański",
+            "Position": "Kardiolog",
+            "Email": "piotr.domanski@hospital.com",
             "Phone": "789-012-345",
-            "Description": "Krzysztof designs the structure and architecture of software systems, ensuring they are scalable and efficient."
+            "Description": "Piotr specjalizuje się w chorobach serca i układu krążenia."
         },
         {
             "ID": "8",
             "FirstName": "Ewa",
-            "LastName": "Wójcik",
-            "Position": "Business Analyst",
-            "Email": "ewa.wojcik@example.com",
+            "LastName": "Krupa",
+            "Position": "Dietetyk",
+            "Email": "ewa.krupa@hospital.com",
             "Phone": "890-123-456",
-            "Description": "Ewa analyzes business needs and translates them into technical requirements for the development team."
+            "Description": "Ewa doradza pacjentom w kwestiach zdrowego żywienia."
         },
         {
             "ID": "9",
-            "FirstName": "Michał",
-            "LastName": "Kamiński",
-            "Position": "Scrum Master",
-            "Email": "michal.kaminski@example.com",
+            "FirstName": "Marcin",
+            "LastName": "Sadowski",
+            "Position": "Ratownik medyczny",
+            "Email": "marcin.sadowski@hospital.com",
             "Phone": "901-234-567",
-            "Description": "Michał facilitates Agile processes, ensures teams follow Scrum practices, and removes obstacles."
+            "Description": "Marcin udziela pierwszej pomocy i transportuje pacjentów karetką."
         },
         {
             "ID": "10",
             "FirstName": "Natalia",
-            "LastName": "Jankowska",
-            "Position": "Data Analyst",
-            "Email": "natalia.jankowska@example.com",
+            "LastName": "Czarnecka",
+            "Position": "Neurolog",
+            "Email": "natalia.czarnecka@hospital.com",
             "Phone": "012-345-678",
-            "Description": "Natalia analyzes data to provide insights that help the company make informed business decisions."
+            "Description": "Natalia diagnozuje i leczy choroby układu nerwowego."
         },
         {
             "ID": "11",
-            "FirstName": "Marcin",
-            "LastName": "Mazur",
-            "Position": "Network Administrator",
-            "Email": "marcin.mazur@example.com",
-            "Phone": "123-456-789",
-            "Description": "Marcin manages and maintains the company's network infrastructure to ensure reliable and secure connectivity."
+            "FirstName": "Grzegorz",
+            "LastName": "Michalak",
+            "Position": "Dermatolog",
+            "Email": "grzegorz.michalak@hospital.com",
+            "Phone": "111-222-333",
+            "Description": "Grzegorz leczy choroby skóry i alergie."
         },
         {
             "ID": "12",
-            "FirstName": "Karolina",
-            "LastName": "Kaczmarek",
-            "Position": "Marketing Specialist",
-            "Email": "karolina.kaczmarek@example.com",
-            "Phone": "234-567-890",
-            "Description": "Karolina plans and executes marketing strategies to promote the company’s products and services."
+            "FirstName": "Joanna",
+            "LastName": "Ostrowska",
+            "Position": "Pediatra",
+            "Email": "joanna.ostrowska@hospital.com",
+            "Phone": "222-333-444",
+            "Description": "Joanna zajmuje się leczeniem dzieci i młodzieży."
         },
         {
             "ID": "13",
-            "FirstName": "Grzegorz",
-            "LastName": "Czarnecki",
-            "Position": "System Administrator",
-            "Email": "grzegorz.czarnecki@example.com",
-            "Phone": "345-678-901",
-            "Description": "Grzegorz manages and maintains the company's IT systems, ensuring they are running smoothly."
+            "FirstName": "Łukasz",
+            "LastName": "Wróbel",
+            "Position": "Onkolog",
+            "Email": "lukasz.wrobel@hospital.com",
+            "Phone": "333-444-555",
+            "Description": "Łukasz diagnozuje i leczy choroby nowotworowe."
         },
         {
             "ID": "14",
-            "FirstName": "Magdalena",
-            "LastName": "Sikora",
-            "Position": "Copywriter",
-            "Email": "magdalena.sikora@example.com",
-            "Phone": "456-789-012",
-            "Description": "Magdalena writes and edits content for websites, advertisements, and other marketing materials."
+            "FirstName": "Monika",
+            "LastName": "Baranowska",
+            "Position": "Ginekolog",
+            "Email": "monika.baranowska@hospital.com",
+            "Phone": "444-555-666",
+            "Description": "Monika zajmuje się zdrowiem kobiet i prowadzeniem ciąży."
         },
         {
             "ID": "15",
-            "FirstName": "Paweł",
-            "LastName": "Witkowski",
-            "Position": "IT Support",
-            "Email": "pawel.witkowski@example.com",
-            "Phone": "567-890-123",
-            "Description": "Paweł provides technical support to employees, troubleshooting and resolving IT-related issues."
+            "FirstName": "Adam",
+            "LastName": "Pietrzak",
+            "Position": "Chirurg plastyczny",
+            "Email": "adam.pietrzak@hospital.com",
+            "Phone": "555-666-777",
+            "Description": "Adam wykonuje operacje rekonstrukcyjne i estetyczne."
         },
         {
             "ID": "16",
-            "FirstName": "Joanna",
-            "LastName": "Baran",
-            "Position": "Frontend Developer",
-            "Email": "joanna.baran@example.com",
-            "Phone": "678-901-234",
-            "Description": "Joanna develops the user-facing part of applications, ensuring they are visually appealing and functional."
+            "FirstName": "Barbara",
+            "LastName": "Tomczak",
+            "Position": "Fizjoterapeuta",
+            "Email": "barbara.tomczak@hospital.com",
+            "Phone": "666-777-888",
+            "Description": "Barbara pomaga pacjentom w rehabilitacji i powrocie do sprawności."
         },
         {
             "ID": "17",
-            "FirstName": "Adrian",
-            "LastName": "Król",
-            "Position": "Backend Developer",
-            "Email": "adrian.krol@example.com",
-            "Phone": "789-012-345",
-            "Description": "Adrian builds and maintains the server-side logic, databases, and APIs that power applications."
+            "FirstName": "Paweł",
+            "LastName": "Nowakowski",
+            "Position": "Endokrynolog",
+            "Email": "pawel.nowakowski@hospital.com",
+            "Phone": "777-888-999",
+            "Description": "Paweł diagnozuje i leczy zaburzenia hormonalne."
         },
         {
             "ID": "18",
             "FirstName": "Sylwia",
-            "LastName": "Górska",
-            "Position": "Graphic Designer",
-            "Email": "sylwia.gorska@example.com",
-            "Phone": "890-123-456",
-            "Description": "Sylwia creates visual concepts, graphics, and designs for digital and print media."
-        },
-        {
-            "ID": "19",
-            "FirstName": "Dawid",
-            "LastName": "Olszewski",
-            "Position": "Security Engineer",
-            "Email": "dawid.olszewski@example.com",
-            "Phone": "901-234-567",
-            "Description": "Dawid ensures the company's systems are secure from cyber threats by implementing security measures and monitoring."
-        },
-        {
-            "ID": "20",
-            "FirstName": "Izabela",
-            "LastName": "Pawlak",
-            "Position": "Customer Support",
-            "Email": "izabela.pawlak@example.com",
-            "Phone": "012-345-678",
-            "Description": "Izabela assists customers with inquiries, problems, and ensures a positive customer experience."
+            "LastName": "Jastrzębska",
+            "Position": "Pulmonolog",
+            "Email": "sylwia.jastrzebska@hospital.com",
+            "Phone": "888-999-000",
+            "Description": "Sylwia zajmuje się leczeniem chorób układu oddechowego."
         }
     ]
 }

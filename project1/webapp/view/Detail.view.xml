@@ -19,19 +19,19 @@
         
         <Panel headerText="{i18n>employeeDetails}" class="sapUiSmallMarginTop" expandable="false">
             <HBox>
-                <Avatar class="sapUiSmallMarginEnd" initials="IS" />
+                <Avatar class="sapUiSmallMarginEnd" initials="{=${employeeModel>/FirstName}.charAt(0) + ${employeeModel>/LastName}.charAt(0)}" />
                 
                 <VBox class="sapUiMediumMarginEnd">
-                    <!-- Imię -->
-                    <Text text="Imię: " />
+                    <!-- Name -->
+                    <Text text="Name: " />
                     <Input value="{employeeModel>/FirstName}" editable="{=${editModel>/editMode} }"/>
 
-                    <!-- Nazwisko -->
-                    <Text text="Nazwisko: " />
+                    <!-- Surname -->
+                    <Text text="Surname: " />
                     <Input value="{employeeModel>/LastName}" editable="{=${editModel>/editMode} }"/>
 
-                    <!-- Stanowisko -->
-                    <Text text="Stanowisko: " />
+                    <!-- Position -->
+                    <Text text="Position: " />
                     <Input value="{employeeModel>/Position}" editable="{=${editModel>/editMode} }"/>
                 </VBox>
                 
@@ -40,14 +40,14 @@
                     <Text text="Email: " />
                     <Input value="{employeeModel>/Email}" type="Email" editable="{=${editModel>/editMode} }"/>
 
-                    <!-- Numer telefonu -->
-                    <Text text="Numer telefonu: " />
+                    <!--Phone Number -->
+                    <Text text="Phone Number: " />
                     <Input value="{employeeModel>/Phone}" type="Tel" editable="{=${editModel>/editMode} }"/>
                 </VBox>
             </HBox>
         </Panel>
 
-        <Panel headerText="Opis stanowiska" class="sapUiSmallMarginTop" expandable="false">
+        <Panel headerText="Job Description" class="sapUiSmallMarginTop" expandable="false">
             <Input value="{employeeModel>/Description}" editable="{=${editModel>/editMode} }"/>
         </Panel>
 
